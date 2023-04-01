@@ -1,0 +1,302 @@
+.priyanka{
+	background: #ee1b60;
+	display: flex;
+	color: white;
+	padding-left: 50px;
+}
+.priyanka h1{
+	padding-left: 230px;
+	padding-bottom: 1px;
+	padding-top: 20px;
+}
+.priyanka h2{
+padding-left: 150px;
+font-family: monospace;
+font-size: 35px;
+}
+.menu ul li{
+	display: inline;
+	background: #64c4dc;
+	list-style-type: none;
+	padding-left: 25px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 23px;
+	font-family: monospace;
+	
+}
+
+.menu{
+	background: darkgrey;
+	padding-top: 15px;
+	
+	margin-right: 35px;
+}
+.menu ul li a:hover{
+color: #ee1b60;
+
+}
+.menu ul li:hover{
+
+background:red;
+}
+
+
+
+.priya h2{
+	color: #ee1b60;
+}
+.priya1 h3{
+	color: #64c4dc;
+}
+
+.varshan{
+	display: flex;
+}
+.lisha1 h3{
+	padding-left: 150px;
+	color: #64c4dc;
+}
+.lisha1 p{
+	padding-left: 150px;
+	font-size: 20px;
+}
+.lisha h2{
+	color: #ee1b60;
+}
+.lisha p{
+	font-size: 20px;
+}
+footer{
+	background: grey;
+	color: white;
+	padding-left: 40px;
+	padding-bottom: 1px;
+	padding-top: 0px;
+}
+
+.aswini h2{
+	color: #ee1b60;
+	font-size: 25px;
+}
+
+.link1 h3{
+color:#64c4dc;
+font-size: 30px;
+
+}
+
+.sasi h3{
+	color: #64c4dc;
+	font-size: 30px;
+
+}
+
+.sasi1 h3{
+	color: #64c4dc;
+}
+.appa{
+	display: flex;
+}
+.dhanam{
+	display: flex;
+}
+.link2 h3{
+	color: #64c4dc;
+	padding-left: 150px;
+}
+.link2 p{
+	padding-left: 150px;
+}
+.sasi1 h3{
+	padding-left: 150px
+}
+.sasi1 p{
+	padding-left: 150px;
+}
+button{
+	background: #ee1b60;
+	color: white;
+	border: hidden;
+	margin-left: 400px;
+	font-size:17px;
+}
+.link1 p{
+	font-size: 18px;
+}
+.link2 p{
+	font-size: 18px;
+}
+.sasi p{
+	font-size: 18px;
+}
+.sasi1 p{
+	font-size: 18px;
+}
+.link1 h3{
+	font-size: 22px;
+}
+.link2 h3{
+	font-size: 22px;
+}
+.sasi h3{
+	font-size: 22px;
+}
+.sasi1 h3{
+	font-size: 22px;
+}
+.link1{
+	background: lightgray;
+	border-style: none;
+	padding-right: 50px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+	margin-right: 30px;
+}
+
+
+.link2{
+	background: lightgray;
+	border-style: none;
+	padding-right:  50px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+}
+
+.sasi{
+	background: lightgray;
+	border-style: none;
+	padding-right: 50px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+	margin-top: 20px;
+	margin-right: 30px;
+}
+.sasi1{
+	background: lightgray;
+	border-style: none;
+	padding-left: 10px;
+	padding-bottom: 25px;
+	padding-right: 50px;
+	margin-top: 20px;
+}
+.vijay h2{
+	color: #ee1b60;
+	font-size: 25px;
+	font-family: monospace;
+}
+.sivaanna img{
+	float-:left;
+	margin: 25px;
+	margin-left: 50px;
+}
+ .sivaanna :hover{
+	transform: scaleX(2);
+}
+.junepapa img{
+	float: left;
+	margin: 25px;
+	margin-left: 50px;
+}
+.junepapa :hover{
+	transform: scaleX(2);
+}
+
+
+.thambi footer{
+	float: right;
+	padding-right:1030px;
+
+}
+
+
+.meena h2{
+	color: #ee1b60;
+	font-size: 35px;
+}
+.guna form label{
+	font-size: 18px;
+	padding-left: 60px;
+	padding-right: 100px;
+
+}
+.nisha form label{
+	font-size: 18px;
+	padding-left: 60px;
+	padding-right: 100px;
+}
+.pavi form label{
+font-size: 18px;
+padding-left: 60px;
+padding-right: 80px;
+}
+ button{
+	font-size: 20px;
+	background: #64c4dc;
+	color: white;
+    padding-left: 50px;
+margin-left: 350px;
+}
+.link1 button{
+	background:#ee1b60;
+	color: white;
+	 
+}
+.link2 button{
+	background: #ee1b60;
+	color: #64c4dc;
+}
+.sasi button{
+	background: #ee1b60;
+	color: #64c4dc;
+}
+.sasi1 button{
+	background: #ee1b60;
+	color: #64c4dc;
+}
+@media screen and (max-width:768px){
+.menu ul li{
+	display: inline;
+	background: #64c4dc;
+	list-style-type: none;
+	padding-left: 40px;
+	padding-top: 35px;
+	padding-right: 27px;
+	padding-bottom: 38px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+	font-family: monospace;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
