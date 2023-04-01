@@ -1,0 +1,292 @@
+i{
+	color: red;
+	font-size:20px;
+	margin-left: 20px;
+}
+.demo img{
+	margin-left: 210px;
+}
+
+.demo h1{
+	font-family: monospace;
+
+}
+.demo p{
+	font-size: 17px;
+}
+.demo{
+	padding-top: 80px;
+}
+.col-5 h1{
+padding-bottom: 30px;
+}
+.col-5 p{
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+.unit h1 span{
+	color: red;
+	font-family: monospace;
+}
+
+.col-3 i{
+	color: red;
+}
+
+.task span span{
+	color: red;
+}
+
+.day span{
+	color: red;
+	font-size: 22px;
+}
+
+.food span span{
+	color: red;
+}
+.food span{
+	font-family: monospace;
+	font-size: 18px;
+}
+
+.container ul li a{
+	font-size: 29px;
+}
+
+.day h5{
+	font-size: 12px;
+}
+
+.col-4 p{
+	color: red;
+}
+
+.card-body p{
+	color: black;
+}
+
+.container ul li a:hover{
+color: red;
+}
+.test h6{
+	font-size: 12px;
+}
+.test span{
+	font-size: 34px;
+}
+.container span{
+	font-size: 25px;
+}
+.test span span{
+	color: red;
+}
+.test{
+	padding-top: 20px;
+}
+
+.col-5 span{
+	font-size: 18px;
+}
+.test span{
+	font-family: monospace;
+}
+.col-5 p{
+	font-size: 19px;
+}
+.col-5 i{
+	color: yellow;
+}
+.col-5 p i{
+	color: red;
+}
+.card span{
+	font-size: 13px;
+}
+.mysha span span{
+	color: red;
+}
+.mysha h6{
+	font-size: 17px;
+}
+.mysha span{
+	font-size: 33px;
+}
+.mysha{
+	background-color: white;
+}
+
+.aaa h5{
+	font-size: 12px;
+}
+.aaa span{
+	font-size: 27px;
+}
+.aaa span span{
+	color: red;
+}
+
+.bbb{
+	background-color: lightgray;
+}
+.ccc{
+	background-color: lightgray;
+}
+.ddd{
+	background-color: lightgray;
+}
+.eee{
+	background-color: lightgray;
+}
+.bbb h6{
+	font-size: 18px;
+}
+.bbb span{
+	font-size: 15px;
+	padding-left: 40px;
+}
+.ccc h6{
+	font-size: 18px;
+}
+.ccc span{
+	font-size: 15px;
+	padding-left: 40px;
+}
+.ddd h6{
+	font-size: 18px;
+}
+.ddd span{
+	font-size: 15px;
+	padding-left: 40px;
+}
+.eee h6{
+	font-size: 18px;
+}
+.eee span{
+	font-size: 15px;
+	padding-left: 40px;
+}
+.papa{
+	width:100%;
+	height:40vh;
+	background:url(../images/pic3.jpg) top center;
+	background-size: cover;
+	position: relative;
+	color: white;
+
+}
+.para col-3{
+	padding-top:100px;
+}
+.lusu{
+	width:20%;
+	height:140vh;
+	background:url(../images/pic.jpg);
+	background-size:cover;
+	position:relative;
+	margin-left: 100px;
+	margin-right: 50px;
+}
+.lusu h5{
+	color: red;
+}
+.lusu{
+	color:black;
+}
+.ref p{
+	padding-top:100px;
+	font-size: 35px;
+}
+.ref1 p{
+	padding-top:100px;
+	font-size: 35px;
+}
+.ref2 p{
+	padding-top:100px;
+	font-size: 35px;
+}
+.ref3 p{
+	padding-top:100px;
+	font-size: 35px;
+}
+/*.nav{
+	margin-right:500px;
+}*/
+.ref6{
+	margin-right:230px;
+}
+.ref7{
+	background-color: white;
+	width:60%;
+	height:12vh;
+	margin-top: 600px;
+	margin-left: 80px;
+	text-align: center;
+}
+.unit{
+	padding-top:100px;
+}
+.ref7{
+	margin-top: 500px;
+}
+.gkt i{
+	margin-top: 20px;
+}
+.gkt1 i{
+	margin-top: 20px;
+}
+.gkt2 i{
+	margin-top: 20px;
+}
+.bbb h6{
+	margin-left: 20px;
+}
+.ref6 i{
+	color: red;
+}
+footer{
+	background-color: black;
+}
+footer p{
+	color: white;
+}
+footer span{
+	color: white;
+}
+.yemmy ul li a{
+	font-size: 20px;
+}
+.pk{
+	border-left: 2px solid red;
+}
+.hepl button:hover{
+	background-color: yellow;
+}
+.off button:hover{
+	background-color: yellow;
+}
+button:hover{
+	background-color: yellow;
+}
+.kty button{
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
